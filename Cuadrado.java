@@ -1,4 +1,4 @@
-class Cuadrado 
+class Cuadrado implements Figuras
    {
       private double lado;
       Cuadrado()
